@@ -1,0 +1,18 @@
+{
+  "id": "/",
+  "name": "GGM - Monitoraggio Batterie",
+  "short_name": "GGM Batterie",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#041218",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "./icona_batterie.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
